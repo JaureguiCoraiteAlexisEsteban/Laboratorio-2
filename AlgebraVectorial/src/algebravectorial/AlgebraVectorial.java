@@ -5,7 +5,6 @@ public class AlgebraVectorial {
     private double[] vectorA;
     private double[] vectorB;
 
-    // Constructor por defecto
     public AlgebraVectorial() {
         this.vectorA = new double[]{0, 0, 0};
         this.vectorB = new double[]{0, 0, 0};
